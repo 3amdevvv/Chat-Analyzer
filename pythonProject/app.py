@@ -3,6 +3,7 @@ import preprocessor, helper
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import subplots
 import seaborn as sns
+from wordcloud import WordCloud
 
 
 st.sidebar.title("Whatsapp Chat Analyzer")
