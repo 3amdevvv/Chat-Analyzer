@@ -1,0 +1,9 @@
+pandas
+plotly
+streamlit
+emojis
+seaborn
+wordcloud
+urlextract
+preprocessor
+helper
