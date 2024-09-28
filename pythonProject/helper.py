@@ -39,7 +39,7 @@ def most_active_users(df):
 
 def create_wordcloud(selected_user,df):
 
-    f = open('stop_hinglish.txt', 'r')
+    f = open('pythonProject/stop_hinglish.txt', 'r')
     stop_words = f.read()
 
     if selected_user != 'Overall':
